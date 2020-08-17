@@ -1,0 +1,13 @@
+class 0: Circular Permutations of n different things - (n-1)!
+
+class 1: Permutation of n different objects without repetition/ Each cell has at most one object for r different objects to n distinct cells- nPr
+
+class 2: Permutation of n different objects with repetition/ Each cell can hold any number of objects for r different objects to n distinct cells - n^r
+
+class 3: Permutation with restricted repetitions- n!/(m1! m2! ... mk!)
+
+class 4: Combination without repetition/ r similar objects to n distinct cells such that each cell has at most one object - nCr
+
+class 5: Combination with repetition/ distrobuting r similar objects to n different cells where each cell can hold any number of kbjects - (n+r-1)Cr
+
+class 6: When r objects to be distributed are not all different to different cells: nCr r!/(m1! m2! ... mn!)
