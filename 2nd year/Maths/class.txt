@@ -11,3 +11,10 @@ class 4: Combination without repetition/ r similar objects to n distinct cells s
 class 5: Combination with repetition/ distrobuting r similar objects to n different cells where each cell can hold any number of kbjects - (n+r-1)Cr
 
 class 6: When r objects to be distributed are not all different to different cells: nCr r!/(m1! m2! ... mn!)
+
+class 7: Selecting atleast k objects from n distinct objects: nCk + nC(k+1) + ... nCn
+
+
+0: Nothing
+1: Add/Subtract
+2. Multiply

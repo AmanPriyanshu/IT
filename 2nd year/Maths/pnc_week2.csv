@@ -1,2 +1,16 @@
-,Question,label
-0,What is bruh?,2
+Question,label,Symbold
+12 people are made to sit around a round table. Find the number of ways in which they can sit such that John and Mary are not sitting together?,0,1
+Determine the number of ways to seat 5 boys in a row of 12 chairs?,1,0
+"Out of 5 mathematicians and 7 engineers, a committee consisting of 2 mathematicians and 3 engineers has to be formed. In how many ways it can be done such that there are no restrictions",4,2
+"Out of 5 mathematicians and 7 engineers, a committee consisting of 2 mathematicians and 3 engineers has to be formed. In how many ways it can be done such that One particular engineer must be in the committee",4,2
+"Out of 5 mathematicians and 7 engineers, a committee consisting of 2 mathematicians and 3 engineers has to be formed. In how many ways it can be done such that 2 particular mathematicians should not be in the committee",4,2
+A student is to answer 12 of the 15 questions in an exam. How many choices does the student have in all?,4,0
+A student is to answer 12 of the 15 questions in an exam. How many choices does the student have If he must answer first two questions,4,0
+A student is to answer 12 of the 15 questions in an exam. How many choices does the student have If he must answer first or second but not both questions,4,2
+A student is to answer 12 of the 15 questions in an exam. How many choices does the student have If he must answer exactly three of the first five questions,4,2
+A student is to answer 12 of the 15 questions in an exam. How many choices does the student have If he must answer At least three of the first five questions,7,2
+A person has to visit one of the 12 temples on each evening of a given week. In how many ways can we plan his week if he will not visit a temple more than once.,1,0
+"Given integers 1,2,...11. Two groups are made, first group contains 5 integers and second group contains 2 integers. In how many ways can the selection be made with unrestricted repetition if There are no further restriction",5,2
+"Given integers 1,2,...11. Two groups are made, first group contains 5 integers and second group contains 2 integers. In how many ways can the selection be made with unrestricted repetition if A group has either all odd integers or all even integers",5,3
+How many ways are there distribute 27 identical jelly beans among 3 kids Without restriction ,,
+How many ways are there distribute 27 identical jelly beans among 3 kids Each kid getting exactly 9 beans,,
